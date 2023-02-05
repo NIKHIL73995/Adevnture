@@ -22,7 +22,7 @@
 
 }
 .background{
-        transform:translateZ(-40px) scale(5);
+        transform:translateZ(-40px) scale(5.1);
 }
 .foreground{
     transform: translateZ(-20px)scale(3);
